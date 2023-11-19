@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1034363732619",
+    "firebase_url": "https://notes-28f13-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "notes-28f13",
+    "storage_bucket": "notes-28f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034363732619:android:0e3ff30e612c1ca3964a8e",
+        "android_client_info": {
+          "package_name": "orlo.karagulov.xml_mvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdWhAqp7i_EWumpuATtNxWMA4wuK-mxsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
